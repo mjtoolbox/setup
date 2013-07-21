@@ -20,6 +20,11 @@ npm install -g jshint
 # See: http://nodejs.org/api/repl.html#repl_repl
 sudo apt-get install -y rlwrap
 
+# Install tofrodos
+# Use  > fromdos file
+sudo apt-get install tofrodos
+
+
 # Install emacs24
 # https://launchpad.net/~cassou/+archive/emacs
 sudo apt-add-repository -y ppa:cassou/emacs
